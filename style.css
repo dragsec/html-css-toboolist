@@ -5,12 +5,14 @@
 }
 body{
     font-family: Cursive; 
+    background-color: gray;
 }
 
 #header{
     height: 75px;
     border-top: 2px solid;
     border-color: lightgray; 
+    background-color: white;
 }
 #logo{
     line-height: 75px;
@@ -44,18 +46,13 @@ h1{
     line-height: 20px;
 }
 
+
 #main{
-    background-color: lightgray;
-    height: 1000px;
-    padding: 50px;
-    
-}
-#main2{
-    height: 650px;
     width: 1000px;
     background-color: rgb(247, 247, 247);
     border-radius: 1%;
-    margin: auto;
+    margin: 50px auto;
+    padding-bottom: 20px;
 }
 #main2header{
     height: 60px;
