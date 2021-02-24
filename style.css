@@ -47,12 +47,15 @@ h1{
 #main{
     background-color: lightgray;
     height: 1000px;
+    padding: 50px;
+    
 }
 #main2{
     height: 650px;
     width: 1000px;
     background-color: rgb(247, 247, 247);
     border-radius: 1%;
+    margin: auto;
 }
 #main2header{
     height: 60px;
