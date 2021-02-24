@@ -1,23 +1,20 @@
 #header{
-    height: 75px;
-    position: relative;
+    height: 70px;
     border-top: 2px solid;
     border-color: lightgray;
 }
 #logo{
-    position: absolute;
+    line-height: 70px;
 }
-#imglogo{
-    position: absolute;
-    top: 10px;
+img{
+    vertical-align: middle;
 }
-.Toboofont{
-    display: inline-block;
-    font-size: 40px;
-    font-weight: bold;
-    text-align: center;
-    line-height: 75px;
+h1{
+    display: inline;
+    vertical-align: middle;
 }
+
+
 #main{
     background-color: lightgray;
     height: 100vh;
