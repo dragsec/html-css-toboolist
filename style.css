@@ -5,6 +5,10 @@
     border-color: lightgray;
 }
 
+#logo{
+    line-height: 75px;
+}
+
 img{
     vertical-align: middle;
 }
