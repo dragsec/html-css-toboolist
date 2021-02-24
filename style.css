@@ -4,14 +4,12 @@
     box-sizing: border-box;
 }
 
-
 #header{
     height: 75px;
     position: relative;
     border-top: 2px solid;
     border-color: lightgray;
 }
-
 #logo{
     line-height: 75px;
 }
@@ -25,7 +23,22 @@ h1{
 
 .buttons{
     padding: 20px 0 20px 0;
+    padding-left: 20px;
 }
+.button1{
+    background-color: lightblue;
+    color: white;
+    border-radius: 15%;
+}
+.button2{
+    background-color:lightgray;
+    color:gray;
+    border-radius: 15%;
+    border: 1px solid;
+    border-color: lightgray;
+
+}
+
 #main{
     background-color: lightgray;
     height: 100vh;
@@ -50,6 +63,9 @@ h1{
 .green{
     color: green;
 }
+.red{
+    color: red;
+}
 .tag{
     color: white;
     line-height: 10px;
@@ -57,7 +73,6 @@ h1{
 .bg-blue{
     background-color: blue;
 }
-
 ul{
     list-style: none;
 }
