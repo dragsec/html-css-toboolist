@@ -5,14 +5,31 @@
     border-top: 2px solid;
     border-color: lightgray;
 }
-
 #logo{
-    position: absolute;  
-    bottom: -35px;
+    position: absolute;
+     
+   
 }
-
+#imglogo{
+    position: absolute;
+    top: 10px;
+}
 .Toboofont{
+    display: inline-block;
     font-size: 40px;
     font-weight: bold;
-    vertical-align: middle;
+    text-align: center;
+    line-height: 75px;
+}
+#main{
+    background-color: lightgray;
+    height: 100vh;
+}
+
+#main2{
+    height: 750px;
+    width: 1000px;
+    background-color: rgb(236, 236, 236);
+    border-radius: 1%;
+
 }
