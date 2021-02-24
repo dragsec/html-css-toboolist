@@ -45,6 +45,7 @@ h1{
     height: 60px;
     border-bottom: 1px solid;
     border-color:  lightgray;
+
 }
 .green{
     color: green;
@@ -57,6 +58,8 @@ h1{
     background-color: blue;
 }
 
-
+ul{
+    list-style: none;
+}
 
 
