@@ -23,6 +23,9 @@ h1{
     vertical-align: middle;
 }
 
+.buttons{
+    padding: 20px 0 20px 0;
+}
 #main{
     background-color: lightgray;
     height: 100vh;
@@ -43,3 +46,14 @@ h1{
     border-bottom: 1px solid;
     border-color:  lightgray;
 }
+.green{
+    color: green;
+}
+.tag bg-blue{
+    color: white;
+    line-height: 10px;
+}
+
+
+
+
