@@ -1,14 +1,11 @@
 #header{
     height: 75px;
-    background-color: aquamarine;
     position: relative;
     border-top: 2px solid;
     border-color: lightgray;
 }
 #logo{
     position: absolute;
-     
-   
 }
 #imglogo{
     position: absolute;
@@ -24,12 +21,16 @@
 #main{
     background-color: lightgray;
     height: 100vh;
+    position: relative;
 }
-
 #main2{
-    height: 750px;
+    height: 650px;
     width: 1000px;
     background-color: rgb(236, 236, 236);
     border-radius: 1%;
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%);
 
 }
