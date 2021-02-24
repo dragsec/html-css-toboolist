@@ -49,9 +49,12 @@ h1{
 .green{
     color: green;
 }
-.tag bg-blue{
+.tag{
     color: white;
     line-height: 10px;
+}
+.bg-blue{
+    background-color: blue;
 }
 
 
