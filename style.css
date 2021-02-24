@@ -29,6 +29,8 @@ h1{
     background-color: lightblue;
     color: white;
     border-radius: 15%;
+    line-height: 20px;
+    border-color: lightblue;
 }
 .button2{
     background-color:lightgray;
@@ -36,7 +38,7 @@ h1{
     border-radius: 15%;
     border: 1px solid;
     border-color: lightgray;
-
+    line-height: 20px;
 }
 
 #main{
@@ -83,6 +85,9 @@ h1{
 .tag{
     color: white;
     line-height: 10px;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
 }
 .bg-lightblue{
     background-color: lightblue;
