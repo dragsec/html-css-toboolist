@@ -62,16 +62,36 @@ h1{
 }
 .green{
     color: green;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
 }
 .red{
     color: red;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
 }
 .tag{
     color: white;
     line-height: 10px;
 }
-.bg-blue{
-    background-color: blue;
+.bg-lightblue{
+    background-color: lightblue;
+}
+.bg-viola{
+    background-color: purple;
+}
+.bg-green{
+    background-color: green;
 }
 ul{
     list-style: none;
