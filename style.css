@@ -28,7 +28,7 @@ h1{
 
 .buttons{
     padding: 20px 0 20px 0;
-    padding-left: 50px;
+    padding-left: 60px;
 }
 .button1{
     background-color: lightblue;
@@ -102,7 +102,7 @@ ul{
 }
 li{
     margin: 15px;
-    padding-left: 50px;
+    padding-left: 15px;
 }
 
 
